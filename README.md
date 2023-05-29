@@ -17,7 +17,7 @@ A person who experiences speaking with a stutter will be able to practice speaki
 ### The speaker stutters
 If stuttering is detected in the recording, the user will receive some details that will help him improve himself and see progress.
 <br><br>
-<img width="605" alt="2" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/99fd3d4f-6a6e-44b2-9fbb-fc41312b4b05">
+<img width="605" alt="2" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/b588aa55-8fd2-4e86-bdac-a28b32bbc0d3">
 
 
 ### The speaker no stutters
