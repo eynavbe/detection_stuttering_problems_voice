@@ -7,12 +7,26 @@ The main goal of this project is to propose a different approach that combines a
 
 
 - Attached is the article that expands on the project.
-
+## The method
+<img width="702" alt="diagram" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/b79b9909-eb3f-4242-92cb-c7a67ece5972">
 
 ## User side: training and improving speech
 A person who experiences speaking with a stutter will be able to practice speaking and improve it with the help of the feedback he will receive. With the help of a platform the user will fill in the details of the target text he wants to say and record himself for 5 seconds or alternatively upload a wav file of the recording with the stuttered speech. By clicking send, the information will be sent for analysis. the user will receive feedback. The feedback received is the seconds during the time of the audio where stuttering was found, the percentage of stuttering detected, the signs that the speaker had a stuttering problem.
 <br><br>
 <img width="602" alt="1" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/bc959625-e3eb-41c5-a783-5367a6b453b0">
+
+
+### The speaker no stutters
+When audio is not detected as stuttering then it will only show that it is not stuttering.
+<br><br>
+<img width="607" alt="3" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/c3022997-8193-4a40-9de8-28d7555b88ce">
+
+
+
+
+https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/ca5a225f-6141-466a-8bfc-1001faeae76e
+
+
 
 ### The speaker stutters
 If stuttering is detected in the recording, the user will receive some details that will help him improve himself and see progress.
@@ -20,8 +34,7 @@ If stuttering is detected in the recording, the user will receive some details t
 <img width="605" alt="2" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/b588aa55-8fd2-4e86-bdac-a28b32bbc0d3">
 
 
-### The speaker no stutters
-When audio is not detected as stuttering then it will only show that it is not stuttering.
-<br><br>
-<img width="607" alt="3" src="https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/c3022997-8193-4a40-9de8-28d7555b88ce">
+https://github.com/eynavbe/detection_stuttering_problems_voice/assets/93534494/f8cc5ca1-b322-4955-b303-659840504726
+
+
 
